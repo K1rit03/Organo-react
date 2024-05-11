@@ -1,0 +1,21 @@
+.time{
+    text-align: center;
+    padding: 32px;
+   
+}
+
+
+.time h3{
+    font-size: 32px;
+    border-bottom: 4px solid #daa520;
+    display: inline-block;
+    padding-bottom: 8px;
+    
+}
+
+.time .jogadores{
+    display: flex;
+    justify-content: space-around;
+    margin: 32px;
+    flex-wrap: wrap;
+}

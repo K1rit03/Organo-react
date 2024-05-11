@@ -1,0 +1,9 @@
+.banner {
+    background-color: greenw;
+    text-align: center;
+}
+
+.banner img {
+    width: 2000px; /* Definindo a largura como 1440 pixels */
+    height: 556px; /* Definindo a altura como 556 pixels */
+}
